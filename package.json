@@ -1,7 +1,7 @@
 {
-  "name": "react-ec",
+  "name": "homepage",
   "version": "1.0.0",
-  "description": "react-ec",
+  "description": "homepage",
   "main": "server.js",
   "type": "module",
   "scripts": {
